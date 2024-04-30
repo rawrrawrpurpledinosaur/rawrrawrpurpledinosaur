@@ -1,9 +1,9 @@
-### Rawr I am actually a capybara 👋
+### I am actually a capybara 👋
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rawrrawrpurpledinosaur&show_icons=true&theme=tokyonight)
 
 #### Currently working on: My discord bot
-
+[Check it out here!](https://github.com/rawrrawrpurpledinosaur/discord_bot)
 <!--
 **rawrrawrpurpledinosaur/rawrrawrpurpledinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
